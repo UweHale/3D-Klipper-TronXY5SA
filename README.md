@@ -11,3 +11,5 @@ Power supply is a MEAN WELL RSP-500-24
 BCZAMD 3D Printer Heating Controller MKS MOSFET
 
 The Z adjust blocks are spacers for doing the initial Z sync on the stepper motors.  Put one on each side and bottom out (stall the motors) the bed rails.  Lower bed, remove and continue 
+
+Carriage bracket for BMG Direct Extruder and a Dragon Hotend with BLTouch.
